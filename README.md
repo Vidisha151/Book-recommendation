@@ -70,7 +70,7 @@ git push heroku main
 This project is **open-source** and available under the **MIT License**.
 
 ## Contact
-For any queries, reach out via **YourEmail@example.com** or create an **issue** on GitHub.
+For any queries, reach out via **2206146@kiit.ac.in** or create an **issue** on GitHub.
 
 ---
 Happy Coding!
